@@ -1,0 +1,4 @@
+producer\Producer.class
+producer\ProducerRunnable.class
+producer\NewLine.class
+producer\ReadRecordsFromFile.class

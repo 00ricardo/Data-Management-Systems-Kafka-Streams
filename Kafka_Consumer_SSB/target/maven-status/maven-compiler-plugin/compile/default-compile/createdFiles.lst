@@ -1,0 +1,12 @@
+consumer\Transformation.class
+db\tables\Lineorder.class
+consumer\Record.class
+db\tables\Customer.class
+consumer\Consumer.class
+db\tables\Part.class
+calendar\DateKafkaInput.class
+db\comunication\DbComunication.class
+calendar\SsbDate.class
+calendar\TransformDate.class
+db\tables\Date.class
+db\tables\Supplier.class
